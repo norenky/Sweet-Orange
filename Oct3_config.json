@@ -1,0 +1,27 @@
+{
+"update_isforce":true,  
+"update_isapk":true,  
+"update_title":"Update new version",  
+"update_content":"<b>Release Info</b>
+<br>- Version: 1.0.0</br>
+<br>- Size: 6.3MB</br>
+<br></br>
+<br><b>Change logs</b></br>
+<br>- Fix bugs loading.</br>",  
+"update_build":1,  
+"update_version":"1.0.0",  
+"update_link":"https://github.com/aaa.apk",  
+"pkg_uninstall":"",  
+"pkg_uninstall_content":"Please uninstall old version",
+"domain_cfg":"https://vebotv.website/",
+"referer_cfg":"https://vebotv.website/",
+"domain_api":"https://api.vebo.xyz",
+"referer_play":"https://t.fdcdn.xyz/",
+"enable_install_player":true,
+"force_apk_player":true,
+"title_player":"Video Player",
+"description_player":"Please install Video Player to watch the match",
+"link_download_player":"",
+"package_name_player":"",
+"player_versionbuild":"18"
+}
