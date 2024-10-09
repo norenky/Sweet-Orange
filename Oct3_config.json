@@ -13,7 +13,7 @@
 "domain_api":"https://api.vebo.xyz",
 "referer_play":"https://t.fdcdn.xyz/",
 "enable_install_player":true,
-"force_apk_player":false,
+"force_apk_player":true,
 "title_player":"Video Player",
 "description_player":"Please install Video Player to watch the match",
 "link_download_player":"https://github.com/niaan/Sweet-Orange/releases/download/player/aoeplayer_1.0.7.apk",
