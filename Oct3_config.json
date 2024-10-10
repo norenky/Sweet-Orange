@@ -1,5 +1,5 @@
 {
-"update_isforce":true,  
+"update_isforce":false,  
 "update_isapk":true,  
 "update_title":"Update new version",  
 "update_content":"<br></br>\n<b>Release Info</b>\n<br>- Version: 2.1.3</br>\n<br>- Size: 11.1MB</br>\n<br></br>\n<br><b>Change logs</b></br>\n<br>- Add Std link.</br>\n<br>- Add 5 link providers.</br>",  
